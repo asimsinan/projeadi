@@ -34,3 +34,7 @@ Aşağıdaki komut ile uygulamayı çalıştırabilirsiniz.
 ### `npm start`
 
 REST API [http://localhost:5000](http://localhost:3000) adresinde, front-end [http://localhost:3000](http://localhost:3000) adresinde çalışmaktadır.
+
+## Ekran Görüntüleri
+Buraya uygulamanın ekran görüntüleri eklenecek.
+
