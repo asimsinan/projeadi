@@ -1,6 +1,4 @@
-# Örnek bir README sayfası.
-
-# Mekanbul MERN Yığını Uygulaması
+#  [Mekanbul MERN Yığını Uygulaması](https://github.com/asimsinan/abc-clone/wiki/Anasayfa)
 Mekanbul insanların konumları civarındaki mekanları, sunduğu imkanları görmelerini, mekanlara yorum yapabilmelerini sağlayan bir web uygulamadır. Uygulamanın aynı zamanda bir admin paneli mevcuttur. Admin mekan ekleme, silme, güncelleme, tüm mekanları görme gibi işlemleri yapabilmektedir.
 
 # Uygulama Özellikleri
